@@ -1,0 +1,11 @@
+2020-01-05 23:53:01,596 - app - INFO - pregrant.csv read success
+2020-01-05 23:53:01,603 - app - INFO - literacy.csv read success
+2020-01-05 23:53:01,973 - app - INFO - GDP per person.csv read success
+2020-01-05 23:53:02,342 - app - INFO - literacy.csv read success
+2020-01-05 23:53:04,210 - app - INFO - pregrant.csv read success
+2020-01-05 23:53:04,216 - app - INFO - literacy.csv read success
+2020-01-05 23:53:04,587 - app - INFO - GDP per person.csv read success
+2020-01-05 23:53:04,952 - app - INFO - literacy.csv read success
+2020-01-05 23:53:13,886 - app - INFO - 勾选年份为1990
+2020-01-05 23:53:13,887 - app - INFO - 柱状图创建成功
+2020-01-05 23:53:13,890 - app - INFO - 折线图与柱状图创建成功

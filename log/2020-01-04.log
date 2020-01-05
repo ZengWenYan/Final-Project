@@ -1,0 +1,66 @@
+2020-01-04 10:10:19,963 - project1 - DEBUG - demo
+2020-01-04 10:11:53,629 - project1 - DEBUG - demo
+2020-01-04 10:12:58,386 - project1 - DEBUG - demo
+2020-01-04 10:13:03,143 - project1 - DEBUG - demo
+2020-01-04 10:13:19,668 - project1 - DEBUG - demo
+2020-01-04 10:13:35,668 - project1 - DEBUG - demo
+2020-01-04 10:18:25,959 - project1 - DEBUG - pregrant.csv read success
+2020-01-04 10:18:25,965 - project1 - DEBUG - literacy.csv read success
+2020-01-04 10:19:52,348 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:19:52,355 - project1 - INFO - literacy.csv read success
+2020-01-04 10:19:52,727 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:19:53,090 - project1 - INFO - literacy.csv read success
+2020-01-04 10:23:27,546 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:23:27,553 - project1 - INFO - literacy.csv read success
+2020-01-04 10:23:27,921 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:23:28,309 - project1 - INFO - literacy.csv read success
+2020-01-04 10:23:40,566 - project1 - INFO - 柱状图创建成功
+2020-01-04 10:24:54,027 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:24:54,034 - project1 - INFO - literacy.csv read success
+2020-01-04 10:24:54,400 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:24:54,809 - project1 - INFO - literacy.csv read success
+2020-01-04 10:25:11,978 - project1 - INFO - 柱状图创建成功
+2020-01-04 10:26:19,371 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:26:19,377 - project1 - INFO - literacy.csv read success
+2020-01-04 10:26:19,744 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:26:20,110 - project1 - INFO - literacy.csv read success
+2020-01-04 10:28:49,082 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:28:49,089 - project1 - INFO - literacy.csv read success
+2020-01-04 10:28:49,454 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:28:49,815 - project1 - INFO - literacy.csv read success
+2020-01-04 10:30:08,472 - project1 - INFO - pregrant.csv read success
+2020-01-04 10:30:08,478 - project1 - INFO - literacy.csv read success
+2020-01-04 10:30:08,840 - project1 - INFO - GDP per person.csv read success
+2020-01-04 10:30:09,202 - project1 - INFO - literacy.csv read success
+2020-01-04 10:30:15,072 - project1 - INFO - 勾选年份为1990
+2020-01-04 10:30:15,073 - project1 - INFO - 柱状图创建成功
+2020-01-04 10:30:15,073 - project1 - INFO - 折线图与柱状图创建成功
+2020-01-04 10:30:34,649 - project1 - INFO - 勾选年份为2003
+2020-01-04 10:30:34,649 - project1 - INFO - 柱状图创建成功
+2020-01-04 10:30:34,650 - project1 - INFO - 折线图与柱状图创建成功
+2020-01-04 10:40:57,804 - app - INFO - pregrant.csv read success
+2020-01-04 10:40:57,810 - app - INFO - literacy.csv read success
+2020-01-04 10:40:58,169 - app - INFO - GDP per person.csv read success
+2020-01-04 10:40:58,527 - app - INFO - literacy.csv read success
+2020-01-04 10:40:59,906 - app - INFO - pregrant.csv read success
+2020-01-04 10:40:59,913 - app - INFO - literacy.csv read success
+2020-01-04 10:41:00,279 - app - INFO - GDP per person.csv read success
+2020-01-04 10:41:00,641 - app - INFO - literacy.csv read success
+2020-01-04 10:42:08,788 - app - INFO - 勾选年份为1990
+2020-01-04 10:42:08,789 - app - INFO - 柱状图创建成功
+2020-01-04 10:42:08,789 - app - INFO - 折线图与柱状图创建成功
+2020-01-04 21:46:31,741 - app - INFO - pregrant.csv read success
+2020-01-04 21:46:31,753 - app - INFO - literacy.csv read success
+2020-01-04 21:46:32,119 - app - INFO - GDP per person.csv read success
+2020-01-04 21:46:32,486 - app - INFO - literacy.csv read success
+2020-01-04 21:46:33,948 - app - INFO - pregrant.csv read success
+2020-01-04 21:46:33,954 - app - INFO - literacy.csv read success
+2020-01-04 21:46:34,317 - app - INFO - GDP per person.csv read success
+2020-01-04 21:46:34,680 - app - INFO - literacy.csv read success
+2020-01-04 21:46:59,760 - app - INFO - 勾选年份为1990
+2020-01-04 21:46:59,794 - app - INFO - 柱状图创建成功
+2020-01-04 21:46:59,795 - app - INFO - 折线图与柱状图创建成功
+2020-01-04 21:47:20,055 - app - INFO - pregrant.csv read success
+2020-01-04 21:47:20,061 - app - INFO - literacy.csv read success
+2020-01-04 21:47:20,429 - app - INFO - GDP per person.csv read success
+2020-01-04 21:47:20,793 - app - INFO - literacy.csv read success
