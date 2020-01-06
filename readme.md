@@ -41,4 +41,9 @@
 1. html使用jinjia2 模板语言+html+JavaScript制作。其中模板语言主要使用了循环和判断，用于自动生成表格和翻页按钮。
 2. 页面中使用了 echart 库进行绘制，echart是JavaScript的一个第三方库。除此之外还通过html的<select>标签的onchange属性配合
 3. JavaScript函数实现了页面刷新，通过<button>标签的onclick熟悉配合JavaScript实现翻页功能
+4. HTML新语义元素使用
+5. 利用HTMl5优点，在<a>标签中放入多个元素
+6. 利用css3实现响应式网页
+7. 使用了boostrap前端框架的按钮、网格系统、导航栏下拉框和轮播图
+8. 在index.html页面使用了多个<form>标签，发送表单数据到python后端
 ***
